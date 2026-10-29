@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/michalvankodev-copy-issue-labels/tree/v2.0.0) | [`c4df96e`](https://github.com/michalvankodev/copy-issue-labels/commit/c4df96ee53d2cdf639ba169a26c43b04d5085cb3) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/michalvankodev-copy-issue-labels/tree/v2.0.0) | [`c4df96e`](https://github.com/michalvankodev/copy-issue-labels/commit/c4df96ee53d2cdf639ba169a26c43b04d5085cb3) | [`HARDENING.md`](https://github.com/chainguard-actions/michalvankodev-copy-issue-labels/blob/v2.0.0/HARDENING.md) |
 
 ## Privacy
 
